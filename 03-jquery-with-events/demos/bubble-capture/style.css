@@ -1,0 +1,25 @@
+.element1, .element4 {
+  background-color: #b0c4de;
+  height: 160px;
+  width: 400px;
+  cursor: pointer;
+}
+
+.element2, element5 {
+  background-color: pink;
+  height: 80px;
+  width: 300px;
+  position: relative;
+  top: 20px;
+  left: 50px;
+
+}
+
+.element3, .element6 {
+  background-color: lightgreen;
+  height: 30px;
+  width: 200px;
+  position: relative;
+  top: 10px;
+  left: 50px;
+}
