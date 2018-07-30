@@ -1,0 +1,11 @@
+/* === BASE RULES === */
+
+body {
+  line-height: 1.5;
+  font-size: 100%;
+  color: #313131;
+}
+
+main {
+  margin: 0 20px;
+}

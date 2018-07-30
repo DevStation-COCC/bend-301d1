@@ -1,0 +1,50 @@
+/* === OVERALL LAYOUT RULES === */
+
+header section {
+  max-width: 80%;
+  float: left;
+  padding: 0 0 .2em 1em;
+}
+
+select {
+  width: 90%;
+  margin: .2em 5%;
+}
+
+img {
+  max-width: 100%;
+}
+
+/* === FLOATING AND CLEARFIX === */
+
+.pull-left {
+  float: left;
+}
+
+.pull-right {
+  float: right;
+}
+
+.clearfix::after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* === MEDIA QUERY === */
+
+@media only screen and (min-width: 640px) {
+  header section {
+    padding: .1em .1em .1em 2em;
+    float: none;
+  }
+
+  select {
+    width: 15em;
+    margin: .2em .2em;
+  }
+
+  #filters li {
+    display: inline;
+  }
+}
