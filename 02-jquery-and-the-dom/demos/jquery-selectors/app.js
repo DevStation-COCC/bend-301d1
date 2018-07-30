@@ -63,6 +63,7 @@ $(document).ready(function(){
   var $liList = $('#beautiful-list li');
   $.each($liList, addExcitement);
 
+
   var $list = $('#beautiful-list');
   var $child = $($list.children().eq(0).parent());
   console.log($child);
