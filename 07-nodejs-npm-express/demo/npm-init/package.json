@@ -1,0 +1,15 @@
+{
+  "name": "node-npm-repl",
+  "version": "1.0.0",
+  "description": "Basic NPM init output",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Code Fellows",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
