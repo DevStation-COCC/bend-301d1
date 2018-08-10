@@ -1,0 +1,20 @@
+{
+  "name": "button-party",
+  "version": "1.0.0",
+  "description": "Buttons for the people!",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "buttons",
+    "demons",
+    "unicorns"
+  ],
+  "author": "Sam Hamm",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}

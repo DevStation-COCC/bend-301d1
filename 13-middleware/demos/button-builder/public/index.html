@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Button Builder</title>
+    <link rel="stylesheet" href="/style.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/page.js/1.7.1/page.min.js"></script>
+  </head>
+  <body>
+    <h1>Button Builder</h1>
+    <form>
+      <ul>
+        <li><label>Color (HEX):<input type="text" name="color"></label></li>
+        <li><label>Border Radius (in pixels):<input type="number" name="radius"></label></li>
+        <li><label>Text:<input type="text" name="phrase"></label></li>
+      </ul>
+    </form>
+    <p>Your button:<button id="thebutton">Try me, I am your button</button></p>
+    <pre><p id="buttoncode">Button code will appear here</p></pre>
+    <script src="/app.js"></script>
+  </body>
+</html>

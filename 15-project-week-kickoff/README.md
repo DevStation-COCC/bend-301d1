@@ -20,9 +20,10 @@
 
 **Any requested topics for more specific review? Let's make a list!**
 
-- (topic 1?)
-- (topic 2?)
-- (topic 3?)
+- MVC
+- RESTful APIs
+- WRRC (aka 'the story')
+- Client-side vs Server-side Routing (page vs node middleware)
 
 **Let's look at a few prior 301 projects...**
 
@@ -38,17 +39,20 @@
 
 **Final projects: Let's go over the requirements!**
 
+- [Project Requirements](https://github.com/codefellows/code-301-guide/blob/master/curriculum/15-project-week-kickoff/project-requirements.md)
+
 - Day [16](https://github.com/codefellows/seattle-301d20/blob/master/16-project-week-day-1/README.md): Getting started
 - Day [17](https://github.com/codefellows/seattle-301d20/blob/master/17-project-week-day-2/README.md): Big buildout day
 - Day [18](https://github.com/codefellows/seattle-301d20/blob/master/18-project-week-day-3/README.md): Aim for MVP
 - Day [19](https://github.com/codefellows/seattle-301d20/blob/master/19-project-week-day-4/README.md): Stretch goals, refinements
-- Day [20](https://github.com/codefellows/seattle-301d20/blob/master/19-project-week-day-4/README.md): Presentations! `Note: project requirements are in this document`
+- Day [20](https://github.com/codefellows/seattle-301d20/blob/master/19-project-week-day-4/README.md): Presentations! 
 - Do not forget the associated Canvas assignments! One is a group submission and the other is an individual submission!
 
 `BREAK (10 minutes)`
 
 **Additional topics related to final projects**
 
+- [Open Graph](http://ogp.me/) meta tags
 - General API craziness
 - [CORS & JSONP](https://dev.socrata.com/docs/cors-and-jsonp.html) • [MDN reference](https://developer.mozilla.org/en-US/docs/Web/HTTP/Access_control_CORS) • [Wikipedia](https://en.wikipedia.org/wiki/Cross-origin_resource_sharing)
 - Async fun... it'll happen to you!
